@@ -1,0 +1,19 @@
+# welcome to : blog.gitiu.com
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /about/
+Allow: /tags/
+Allow: /bb/
+Allow: /posts/
+Allow: /page/
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /webfonts/
+Disallow: /shuoshuo/
+Disallow: /github-card-lib/
+
+Sitemap: https://blog.gitiu.com/baidusitemap.xml
+Sitemap: https://blog.gitiu.com/sitemap.xml
